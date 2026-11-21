@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Временные файлы офиса
+~$*
+
+# Локальные настройки IDE/редакторов
+.vscode/
+.idea/
+.claude/
